@@ -1,0 +1,9 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+packrat/lib*/
+packrat/src/
+scripts/04_exploration.R
+scripts/00_packages.R
+scripts/05_sessionInfo.R
